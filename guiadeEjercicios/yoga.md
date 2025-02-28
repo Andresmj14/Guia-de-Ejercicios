@@ -1,6 +1,7 @@
 # Ejercicio de Yoga
 
-
+## Descripción
+El yoga es una práctica física y mental que combina posturas (asanas), respiración controlada (pranayama) y meditación. A través de estas técnicas, el yoga mejora la flexibilidad, la fuerza, el equilibrio y promueve una sensación de calma y bienestar general.
 
 
 
