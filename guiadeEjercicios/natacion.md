@@ -17,6 +17,11 @@ La natación es un ejercicio completo que involucra todo el cuerpo, mejorando la
 - Nadar suavemente (2-3 largos de la piscina): Alterna entre estilos suaves como el estilo libre o el estilo espalda a un ritmo relajado.
 - Estiramientos en el agua: Realiza estiramientos de los brazos, hombros y piernas mientras nadas, para mejorar la flexibilidad.
 
+## Consejos
+- Respiración adecuada: Asegúrate de respirar de manera rítmica y constante mientras nadas. En estilo libre, trata de inhalar cuando gires la cabeza hacia un lado y exhalar cuando la cabeza esté en el agua.
+- Postura del cuerpo: Mantén una postura alineada y horizontal para reducir la resistencia en el agua. Evita levantar demasiado la cabeza o los pies.
+- Variedad de estilos: Alternar entre diferentes estilos de natación trabaja diferentes grupos musculares, evitando el sobreuso de los mismos músculos.
+- Hidratación: Aunque estás en el agua, es importante mantenerte hidratado. Bebe agua antes y después de nadar.
 
 
 
