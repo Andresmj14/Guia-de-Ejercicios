@@ -18,6 +18,11 @@ El entrenamiento funcional está diseñado para mejorar la movilidad, estabilida
 - Estiramientos dinámicos: Rotaciones de cadera, zancadas con torsión.
 - Marcha o trote suave: 2-3 minutos.
 
+## Consejos
+- Mantén la postura correcta: Asegúrate de realizar todos los movimientos con la técnica adecuada para evitar lesiones.
+- Hazlo progresivamente: Si eres nuevo en el entrenamiento funcional, comienza con menos repeticiones o sin peso adicional, y aumenta gradualmente la intensidad.
+- Escucha a tu cuerpo: Si sientes dolor o incomodidad, toma un descanso o ajusta el ejercicio.
+- Hidratación: No olvides beber agua antes, durante y después del entrenamiento.
 
 
 
