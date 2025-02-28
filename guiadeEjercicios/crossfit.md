@@ -1,0 +1,24 @@
+# Ejercicio de CrossFit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
