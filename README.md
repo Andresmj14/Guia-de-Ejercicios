@@ -10,7 +10,7 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 - [Ejercicio de Entrenamiento Funcional](guiadeEjercicios/entrenamiento_funcional.md): Mejora la fuerza en movimientos cotidianos.
 - [Ejercicio de Yoga](guiadeEjercicios/yoga.md): Fomenta la relajación y la flexibilidad.
 - [Ejercicio de Pilates](guiadeEjercicios/pilates.md): Fortalece el núcleo y mejora la postura.
-- [Ejercicio de Ciclismo](eguiadeEjercicios/ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
+- [Ejercicio de Ciclismo](guiadeEjercicios/ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
 - [Ejercicio de Natación](guiadeEjercicios/natacion.md): Trabaja todos los grupos musculares de manera suave.
 - [Ejercicio de Boxeo](guiadeEjercicios/boxeo.md): Mejora la coordinación y la resistencia.
 - [Ejercicio de CrossFit](guiadeEjercicios/crossfit.md): Entrenamiento intensivo y funcional.
