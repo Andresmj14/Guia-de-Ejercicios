@@ -9,7 +9,14 @@ El entrenamiento funcional está diseñado para mejorar la movilidad, estabilida
 - Ayuda a prevenir lesiones en actividades diarias.
 - Mejora la postura y la estabilidad del core.
 
+## instrucciones
+- Calentamiento (5-10 minutos):
+- Realiza ejercicios de movilidad articular y activación muscular para preparar el cuerpo:
 
+- Rotaciones de cuello y hombros: 1-2 minutos.
+- Sentadillas sin peso (Squats): 2 minutos.
+- Estiramientos dinámicos: Rotaciones de cadera, zancadas con torsión.
+- Marcha o trote suave: 2-3 minutos.
 
 
 
