@@ -23,6 +23,13 @@ Pedalea a un ritmo cómodo, pero constante, para mantener un esfuerzo moderado.
 - Enfriamiento y Estiramientos (5-10 minutos):
 Pedalea a un ritmo suave para bajar gradualmente la frecuencia cardíaca. Luego, realiza estiramientos enfocados en las piernas (cuádriceps, isquiotibiales, pantorrillas) y la espalda.
 
+## Consejos
+- Ajusta la bicicleta: Asegúrate de que la altura del asiento y el manillar sean adecuados para evitar lesiones.
+- Mantén una postura correcta: Mantén la espalda recta, los codos ligeramente doblados y las manos en el manillar sin tensar los hombros.
+- Hidratación: Bebe agua antes, durante y después del entrenamiento para mantener la hidratación.
+- Varía el terreno: Si sales a la carretera o montaña, cambia de terreno para trabajar diferentes grupos musculares y aumentar la intensidad del ejercicio.
+
+
 
 
 
