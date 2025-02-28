@@ -21,7 +21,11 @@ Alterna entre los siguientes ejercicios, haciendo intervalos de 2-3 minutos de a
 - Enfriamiento y Estiramientos (5-10 minutos):
 Realiza estiramientos centrados en los hombros, muñecas, piernas y espalda para liberar la tensión. Tómate tu tiempo para relajarte y evitar cualquier tipo de rigidez muscular.
 
-
+## Consejos
+- Mantén una postura adecuada: Siempre mantén los codos cerca del cuerpo y la guardia alta para proteger la cara.
+- Respira correctamente: Exhala cuando hagas un golpe y trata de mantener un ritmo constante para no fatigarte rápidamente.
+- Usa guantes: Si trabajas con un saco o compañero, asegúrate de usar guantes para evitar lesiones en las manos.
+- Hidratación: Bebe agua antes, durante y después del ejercicio.
 
 
 
