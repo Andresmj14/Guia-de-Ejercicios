@@ -18,7 +18,11 @@ El entrenamiento de flexibilidad se enfoca en mejorar la amplitud de movimiento 
 - Rotaciones articulares: Realiza círculos con los tobillos, muñecas, caderas y cuello.
 - Estiramientos dinámicos: Zancadas hacia adelante y hacia los lados, estiramientos de brazos y piernas.
 
-
+## Consejos
+- Hazlo con calma: La flexibilidad mejora con el tiempo, así que no forces los estiramientos. Mantén la respiración fluida y relajada.
+- No rebotes: Evita los estiramientos de rebote (bouncing) ya que pueden causar lesiones. Mantén una posición estática.
+Escucha a tu cuerpo: Estira hasta el punto de sentir tensión, pero sin dolor.
+- Constancia: La flexibilidad mejora con la práctica regular, así que intenta realizar estos estiramientos de 2 a 3 veces por semana.
 
 
 
