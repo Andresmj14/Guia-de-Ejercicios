@@ -18,6 +18,12 @@ Fomenta el trabajo en equipo y la motivación en grupo.
 - Sentadillas sin peso: 2 minutos.
 - Trote suave en el lugar o correr 1-2 minutos.
 
+## Consejos
+- Escucha a tu cuerpo: Si sientes que un ejercicio es demasiado intenso o doloroso, modifícalo o descansa.
+- Usa la técnica adecuada: Al realizar levantamientos de pesas o movimientos complejos, asegúrate de hacerlo con la técnica correcta para evitar lesiones.
+- Varía tus entrenamientos: El CrossFit está basado en la variabilidad, así que cambia los WODs regularmente para evitar la adaptación y continuar desafiando a tu cuerpo.
+- Mantén la hidratación: Bebe agua antes, durante y después del entrenamiento.
+
 
 
 
