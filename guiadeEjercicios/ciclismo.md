@@ -27,7 +27,7 @@ Pedalea a un ritmo suave para bajar gradualmente la frecuencia cardíaca. Luego,
 - Ajusta la bicicleta: Asegúrate de que la altura del asiento y el manillar sean adecuados para evitar lesiones.
 - Mantén una postura correcta: Mantén la espalda recta, los codos ligeramente doblados y las manos en el manillar sin tensar los hombros.
 - Hidratación: Bebe agua antes, durante y después del entrenamiento para mantener la hidratación.
-- Varía el terreno: Si sales a la carretera o montaña, cambia de terreno para trabajar diferentes grupos musculares y aumentar la intensidad del ejercicio.
+- Varía el terreno: Si sales a la carretera o montaña, cambia de terreno para trabajar diferentes grupos musculares y aumentar la intensidad del ejercicio .
 
 
 
